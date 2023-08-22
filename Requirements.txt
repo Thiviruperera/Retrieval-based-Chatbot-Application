@@ -1,0 +1,6 @@
+Install these packages
+
+- numpy
+- nltk
+- tensorflow
+- tflearn
